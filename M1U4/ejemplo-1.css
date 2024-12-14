@@ -1,7 +1,17 @@
-h1{color: aquamarine ;
-    font-family: Arial, Helvetica, sans-serif;
+h1{color: brown;/*damos color*/
+    font-family: Arial, Helvetica, sans-serif;/*colocamos formato de letra*/
+    background-color: aquamarine;/*colocamos fondo de color*/
+    text-align: center;/*centrar archivo*/
 }
-h2{color: violet;}
-div{color:brown;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+h2{color:peru;
+    font-weight: 300;
+}
+
+h3{color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{color:blueviolet;}
+h4{color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
