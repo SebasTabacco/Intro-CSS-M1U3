@@ -37,8 +37,8 @@ h4{color: darkslategray;
 #azul{
     background-color: rgb(144, 198, 206);
     width: 300px;
-    height: 300px;
-    padding: 10px;
+    height: 200px;
+    padding: 7px;
     border: 5px solid black;
     margin-left: 30px;
 }
@@ -50,4 +50,9 @@ h4{color: darkslategray;
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
+}
+#mivideo{
+    border: 5px solid cadetblue;
+    padding: 10px;
+    background-color: coral;
 }
