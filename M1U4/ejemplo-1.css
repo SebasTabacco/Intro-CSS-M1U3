@@ -7,11 +7,42 @@ h2{color:peru;
     font-weight: 300;
 }
 
-h3{color: darkgreen;
+h3{color: tomato;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }
 li{color:blueviolet;}
 h4{color: darkslategray;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-style: oblique;
+    font-size: 35px;
+}
+.destacados{color: brown;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+#rojo{
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border: 5px solid violet;
+    box-sizing: border-box;
+    margin-left: 450px;
+    
+}
+#azul{
+    background-color: bisque;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border: 5px solid red;
+    margin-left: 30px;
+}
+
+.circular{
+    margin-left: 425px;
+    border: 5px solid orangered;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
 }
