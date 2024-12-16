@@ -21,7 +21,7 @@ h4{color: darkslategray;
     font-style: oblique;
     font-size: 35px;
 }
-.destacados{color: rgba(194, 21, 21, 0.877);
+.destacados{color: rgba(146, 87, 194, 0.692);
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         }
 #rojo{
@@ -30,7 +30,7 @@ h4{color: darkslategray;
     height: 300px;
     padding: 10px;
     border: 5px solid black;
-    box-sizing: border-box;
+    box-sizing: border-box; 
     margin-left: 450px;
     
 }
