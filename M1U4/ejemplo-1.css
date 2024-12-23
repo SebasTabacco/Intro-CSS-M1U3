@@ -75,7 +75,8 @@ h5 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .texto {
-  background-color: crimson;
+  color: blue;
+  background-color: cornsilk;
   column-count: 5;
   column-gap: 50px;
   border: 3px solid black;
@@ -86,4 +87,9 @@ h5 {
 }
 h6 {
   font-family: "Open Sans", serif;
+}
+.destacados {
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
 }
