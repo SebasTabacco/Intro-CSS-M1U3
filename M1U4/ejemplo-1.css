@@ -77,7 +77,7 @@ h5 {
 .texto {
   background-color: crimson;
   column-count: 5;
-  /*column-gap: 50px;*/
+  column-gap: 50px;
   border: 3px solid black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
