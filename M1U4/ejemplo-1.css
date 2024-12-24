@@ -2,27 +2,27 @@
 /* font-family: "Great Vibes", serif;*/ /*para caligrafia*/
 
 h1 {
-  text-decoration: underline;
-  color: black;
-  font-family: "Great Vibes", serif;
+  text-decoration: underline; /*genera linea en texto*/
+  color: black; /*color al texto*/
+  font-family: "Great Vibes", serif; /*tipo de tipografia*/
   font-size: x-large;
-  width: 400px;
-  padding: auto;
+  width: 400px; /*expande texto a lo largo*/
+  padding: auto; /*desliza texto*/
 }
 img {
   margin-left: 500px;
-  border-radius: 40px 4px 40px 5px;
-  border: 3px solid brown;
-  box-shadow: -10px -10px 10px black;
+  border-radius: 40px 4px 40px 5px; /*genera bordes*/
+  border: 3px solid brown; /*color al borde*/
+  box-shadow: -10px -10px 10px black; /*genera sombra a imagen*/
 }
 h2 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   width: 320px;
   padding: 4px;
-  background-color: aqua;
+  background-color: aqua; /*fondo de color sobre texto*/
   border: 3px solid brown;
   box-shadow: 5px 5px 10px black;
-  border-radius: 35px;
+  border-radius: 35px; /*bordes redondos en el texto*/
 }
 h3 {
   margin-left: 35px;
